@@ -1,21 +1,26 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Drishtant Lekharu!  
-### Interested in :
-- Software Engineering 
-- Backend Development 
-- Android Development
+## 🚀 Areas of Interest  
 
-## 🌍 Profiles:  
-- [LinkedIn](https://www.linkedin.com/in/drishtant-lekharu)  
-- [Leetcode](https://leetcode.com/u/dri_lekh/)  
-- [Email](drish.lekh26@gmail.com)
-- [Resume](https://flowcv.com/resume/tr4tjjqcq4)
+**Software Engineering** • **Backend Development** • **Android Development** • **LLM App Development**
 
-## 👨‍💻 About Me:  
-Hi, I'm Drishtant Lekharu!  
 
-🔭 I'm a 3rd-year B.Tech Electronics & Computer Science undergrad at KIIT University , Bhubaneswar.  
-👨‍💻 My technical interests include Software Development and AI/ML.  
-👍 I love collaborating with new people and enjoy working on new technologies. I also enjoy a good challenge!  
+
+## 🌐 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drishtant-lekharu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dri_lekh/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drish.lekh26@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=flowcv&logoColor=white)](https://flowcv.com/resume/tr4tjjqcq4)
+
+
+## 👨‍💻 About Me  
+
+Hi, I'm **Drishtant Lekharu**!  
+
+- 3rd-year B.Tech student in Electronics & Computer Science at KIIT University, Bhubaneswar.  
+- Passionate about Software Development, AI/ML, and exploring innovative technologies.  
+- Enthusiastic about collaborating on projects, solving complex problems, and tackling new challenges.  
+- Always eager to learn, build, and contribute to impactful solutions.  
+ 
 
 ## 💼 Experience:  
 - Samsung R&D Institute - Bangalore (Samsung PRISM Intern) 
@@ -34,7 +39,6 @@ Hi, I'm Drishtant Lekharu!
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
   
 
 ## 🚀 Currently Working On:  
