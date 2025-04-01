@@ -1,12 +1,11 @@
-<div align="center">
+# <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Drishtant Lekharu!</div>  
 
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Drishtant Lekharu!  
-
-## 🚀 Areas of Interest  
+## <div align="center">🚀 Areas of Interest</div>  
 
 **Software Engineering** • **Backend Development** • **Android Development** • **LLM App Development** • **Computer Networks & Security**  
 
-## 🌐 Connect with Me  
+## <div align="center">🌐 Connect with Me</div>  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drishtant-lekharu)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/dri_lekh/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:drish.lekh26@gmail.com)  
@@ -14,18 +13,18 @@
 
 ---
 
-## 👨‍💻 About Me  
+## <div align="center">👨‍💻 About Me</div>  
 
 Hi, I'm **Drishtant Lekharu**!  
 
-🎓 3rd-year **B.Tech student** in **Electronics & Computer Science** at **KIIT University, Bhubaneswar**.  
-💡 Passionate about **Software Development**, **AI/ML**, and **exploring innovative technologies**.  
-🤝 Enthusiastic about **collaborating on projects**, solving complex problems, and tackling new challenges.  
-🚀 Always eager to **learn, build, and contribute** to impactful solutions.  
+- 3rd-year **B.Tech student** in **Electronics & Computer Science** at **KIIT University, Bhubaneswar**.  
+- Passionate about **Software Development**, **AI/ML**, and **exploring innovative technologies**.  
+- Enthusiastic about **collaborating on projects**, solving complex problems, and tackling new challenges.  
+- Always eager to **learn, build, and contribute** to impactful solutions.  
 
 ---
 
-## 🛠️ Languages and Tools  
+## <div align="center">🛠️ Languages and Tools</div>  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
@@ -42,11 +41,9 @@ Hi, I'm **Drishtant Lekharu**!
 
 ---
 
-## 🚀 Currently Working On  
+## <div align="center">🚀 Currently Working On</div>  
 
-🧠 **AI/LLM-Powered Applications**  
-⚡ **Scalable Backend Systems**  
-📊 **Data-Driven Solutions**  
-🌐 **Network Programming**  
-
-</div>
+- **AI/LLM-Powered Applications**  
+- **Scalable Backend Systems**  
+- **Data-Driven Solutions**  
+- **Network Programming**  
