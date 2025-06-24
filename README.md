@@ -15,7 +15,7 @@
 
 Hi, I'm **Drishtant Lekharu**!  
 
-- 3rd-year B.Tech student in Electronics & Computer Science at KIIT University, Bhubaneswar.  
+- Final year B.Tech student in Electronics & Computer Science at KIIT University, Bhubaneswar.  
 - Passionate about Software Development, AI/ML, and exploring innovative technologies.  
 - Enthusiastic about collaborating on projects, solving complex problems, and tackling new challenges.  
 - Always eager to learn, build, and contribute to impactful solutions.  
