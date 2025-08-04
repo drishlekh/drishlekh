@@ -1,7 +1,7 @@
 # <div align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Drishtant Lekharu!</div>   
 ## 🚀 Areas of Interest  
 
-**Software Engineering** • **Backend Development** • **Android Development** • **LLM App Development** • **Computer Networks & Security**
+**Software Engineering** • **AI/ML & LLMs** • **Backend Development** • **Android Development** • **Computer Networks & Security**
 
 
 ## 🌐 Connect with Me:
